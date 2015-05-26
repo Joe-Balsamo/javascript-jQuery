@@ -1,12 +1,9 @@
 $(document).ready(function() {
     createGrid(16);
-    $("div.column").mouseenter(function(){
-        $(this).css("background-color", "#FFD1D1");    
-    });
-
 });
 
 function doGridButton() {
+    $(".wrapper").html("");
     gridDim = prompt("Please enter grid dimension: ");
     console.log("gridDim is", gridDim);
     //Now call the grid creator.
@@ -58,5 +55,12 @@ function createGrid(gridDim) {
 
         $("div.column").css({"height": 960/gridDim, "width": 960/gridDim});
         $("div.row").css({"height": 960/gridDim, "width": 960/gridDim});
+
+        $("div.column").mouseenter(function(){
+            $(this).css("background-color", "#FFD1D1");    
+        });
+
+
+
     }
 }
