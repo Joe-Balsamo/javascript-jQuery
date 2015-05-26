@@ -5,7 +5,6 @@ $(document).ready(function() {
 function doGridButton() {
     $(".wrapper").html("");
     gridDim = prompt("Please enter grid dimension: ");
-    console.log("gridDim is", gridDim);
     //Now call the grid creator.
     createGrid(gridDim);
 }
