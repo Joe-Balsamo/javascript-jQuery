@@ -1,21 +1,28 @@
 $(document).ready(function() {
     createGrid(16);
     $("div.column").mouseenter(function(){
-        /*$(".enter span").text(y += 1);*/
         $(this).css("background-color", "#FFD1D1");    
     });
 
 });
 
+function doGridButton() {
+    gridDim = prompt("Please enter grid dimension: ");
+    console.log("gridDim is", gridDim);
+    //Now call the grid creator.
+    createGrid(gridDim);
+}
 
+/*
 
-$(".start").click(function () {
-    gridDim = prompt("Please enter a number");
+$(".gridbutton").click(function () {
+
+    gridDim = prompt("Please enter grid dimension: ");
     console.log("gridDim is", gridDim);
     //Now call the grid creator.
     createGrid(gridDim);
 });
-
+*/
 
 function createGrid(gridDim) {
     //Get the wrapper handle.
