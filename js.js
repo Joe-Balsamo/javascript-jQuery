@@ -57,7 +57,7 @@ function createGrid(gridDim) {
         $("div.row").css({"height": 960/gridDim, "width": 960/gridDim});
 
         $("div.column").mouseenter(function(){
-            $(this).css("background-color", "#FFD1D1");    
+            $(this).css("background-color", "#99CCFF");    
         });
 
 
