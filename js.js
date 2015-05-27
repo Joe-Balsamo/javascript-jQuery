@@ -7,6 +7,8 @@ $(document).ready(function() {
 
 var $container = $(".wrapper");
 
+var currentColor = "#99CCFF"
+
 function doGridButton() {
     $container.html("");
     gridDim = prompt("Please enter grid dimension: ");
@@ -51,7 +53,7 @@ function createGrid(gridDim) {
     $("div.row").css({"height": 960/gridDim, "width": 960/gridDim});
 
     $("div.column").mouseenter(function(){
-        $(this).css("background-color", "#99CCFF");    
+        $(this).css("background-color", currentColor);    
     });
 
 
