@@ -2,8 +2,11 @@ $(document).ready(function() {
     createGrid(16);
 });
 
+var $container = $(".wrapper");
+
 function doGridButton() {
-    $(".wrapper").html("");
+ //   $(".wrapper").html("");
+    $container.html("");
     gridDim = prompt("Please enter grid dimension: ");
     //Now call the grid creator.
     createGrid(gridDim);
@@ -12,7 +15,7 @@ function doGridButton() {
 
 function createGrid(gridDim) {
     //Get the wrapper handle.
-    var $container = $(".wrapper");
+  //  var $container = $(".wrapper");
 
     //Loop through each row.
     for (var rowIndex = 0; rowIndex < gridDim; rowIndex++) {

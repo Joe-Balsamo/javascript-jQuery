@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"age",
+				"age_in_years"
+			],
+			[
+				"fa",
+				"favorite_number"
+			],
+			[
+				"in",
+				"introduction"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"st",
+				"startSlider"
+			],
+			[
+				"slider",
+				"sliderInt"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sl",
+				"sliderNext"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"article",
+				"new_article_path"
+			],
+			[
+				"ar",
+				"article_params"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js.js",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jbalsamo/the_odin_project/javascript-jQuery/js.js",
+		"/Users/jbalsamo/the_odin_project/Ruby/age.rb",
+		"/Users/jbalsamo/the_odin_project/Ruby/student.rb",
+		"/Users/jbalsamo/the_odin_project/Ruby/my_program.rb",
+		"/Users/jbalsamo/the_odin_project/javascript-jQuery/style.css",
+		"/Users/jbalsamo/the_odin_project/javascript-jQuery/index.html",
+		"/Users/jbalsamo/the_odin_project/jQuery/slider/css/slider.css",
+		"/Users/jbalsamo/the_odin_project/jQuery/slider/index.html",
+		"/Users/jbalsamo/the_odin_project/jQuery/slider/js/slider.js",
+		"/Users/jbalsamo/the_odin_project/javascript-jQuery/README.md",
+		"/Users/jbalsamo/the_odin_project/google-homepage/index.html",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Javascript/styles/main.css",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Javascript/scripts/main.js",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Javascript/index.html",
+		"/Users/jbalsamo/the_odin_project/html/style.css",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Bootstrap/styles/main.css",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Bootstrap/index.html",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Javascript/test.html",
+		"/Users/jbalsamo/the_odin_project/JavaScript/ProjectEuler/ProjectEuler3/ProjectEuler3.js",
+		"/Users/jbalsamo/the_odin_project/JavaScript/ProjectEuler3.js",
+		"/Users/jbalsamo/ProjectEuler2/ProjectEuler2.js",
+		"/Users/jbalsamo/the_odin_project/JavaScript/ProjectEuler/ProjectEuler2/ProjectEuler2.js",
+		"/Users/jbalsamo/the_odin_project/JavaScript/ProjectEuler/ProjectEuler1/ProjectEuler1.js",
+		"/Users/jbalsamo/the_odin_project/JavaScript/ProjectEuler/ProjectEuler2/untitled",
+		"/Users/jbalsamo/the_odin_project/JavaScript/addressbook.js",
+		"/Users/jbalsamo/Library/Application Support/Sublime Text 3/Packages/User/JSC.sublime-build",
+		"/Users/jbalsamo/RubymineProjects/Fibbo/Fibbo",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Layouts/index.html",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/Layouts/styles/main.css",
+		"/Users/jbalsamo/the_odin_project/LearnCode.Academy/index.html",
+		"/Users/jbalsamo/the_odin_project/google-homepage/google.css",
+		"/Users/jbalsamo/the_odin_project/html/old.css",
+		"/Users/jbalsamo/the_odin_project/html/myfirstpage.html",
+		"/Users/jbalsamo/the_odin_project/html/android.css",
+		"/Users/jbalsamo/the_odin_project/html/android.html",
+		"/Users/jbalsamo/html/android.css",
+		"/Users/jbalsamo/html/android.html",
+		"/Users/jbalsamo/the_odin_project/google-homepage/README.md",
+		"/Users/jbalsamo/html/This is my second web page.html",
+		"/Users/jbalsamo/html/style.css",
+		"/Users/jbalsamo/html/old.css",
+		"/Users/jbalsamo/railsbridge/test_app/app/controllers/drinks_controller.rb",
+		"/Users/jbalsamo/railsbridge/test_app/app/models/drink.rb",
+		"/Users/jbalsamo/blog/app/views/welcome/index.html.erb",
+		"/Users/jbalsamo/blog/app/views/articles/index.html.erb",
+		"/Users/jbalsamo/blog/app/controllers/comments_controller.rb",
+		"/Users/jbalsamo/blog/app/views/comments/_comment.html.erb",
+		"/Users/jbalsamo/blog/app/views/comments/_form.html.erb",
+		"/Users/jbalsamo/blog/app/views/articles/show.html.erb",
+		"/Users/jbalsamo/blog/config/routes.rb",
+		"/Users/jbalsamo/blog/app/controllers/articles_controller.rb",
+		"/Users/jbalsamo/blog/app/models/article.rb",
+		"/Users/jbalsamo/blog/app/models/comment.rb",
+		"/Users/jbalsamo/blog/db/migrate/20150514004353_create_comments.rb",
+		"/Users/jbalsamo/blog/app/views/articles/new.html.erb",
+		"/Users/jbalsamo/blog/app/views/articles/edit.html.erb",
+		"/Users/jbalsamo/blog/app/views/articles/_form.html.erb",
+		"/Users/jbalsamo/blog/db/migrate/20150513230302_create_articles.rb",
+		"/Users/jbalsamo/Sites/shorty/db/migrate/20150513164556_create_urls.rb",
+		"/Users/jbalsamo/Sites/shorty/app/models/url.rb",
+		"/Users/jbalsamo/Sites/shorty/config/database.yml",
+		"/Users/jbalsamo/railsbridge/test_app/config/routes.rb",
+		"/Users/jbalsamo/railsbridge/test_app/Gemfile",
+		"/Users/jbalsamo/laptop.log"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"total",
+			"100",
+			"console.log",
+			"condole.log",
+			"console.log",
+			"}",
+			"ul>",
+			"<ul>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gridDim",
+			"debug",
+			"ol>",
+			"<ol>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SketchPad.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
