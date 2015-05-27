@@ -99,7 +99,7 @@
 			"file": "js.js",
 			"settings":
 			{
-				"buffer_size": 1716,
+				"buffer_size": 1778,
 				"line_ending": "Unix"
 			}
 		},
@@ -263,7 +263,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -272,15 +272,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1716,
+						"buffer_size": 1778,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								169,
+								169
 							]
 						],
 						"settings":
@@ -293,7 +293,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -349,7 +349,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -398,7 +398,7 @@
 	"project": "SketchPad.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":

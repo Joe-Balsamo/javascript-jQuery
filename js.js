@@ -2,10 +2,12 @@ $(document).ready(function() {
     createGrid(16);
 });
 
+
+    //Get the wrapper handle ONCE for speed.
+
 var $container = $(".wrapper");
 
 function doGridButton() {
- //   $(".wrapper").html("");
     $container.html("");
     gridDim = prompt("Please enter grid dimension: ");
     //Now call the grid creator.
@@ -14,8 +16,6 @@ function doGridButton() {
 
 
 function createGrid(gridDim) {
-    //Get the wrapper handle.
-  //  var $container = $(".wrapper");
 
     //Loop through each row.
     for (var rowIndex = 0; rowIndex < gridDim; rowIndex++) {
@@ -44,13 +44,6 @@ function createGrid(gridDim) {
 
         //Finally append this row to the container.
         $container.append($row);
-
- //       $("div.column").css({"height": 960/gridDim, "width": 960/gridDim});
- //       $("div.row").css({"height": 960/gridDim, "width": 960/gridDim});
-
-//        $("div.column").mouseenter(function(){
-//            $(this).css("background-color", "#99CCFF");    
-//        });
 
     }
     
