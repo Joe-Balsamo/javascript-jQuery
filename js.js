@@ -50,12 +50,13 @@ function createGrid(gridDim) {
 //        });
 
     }
-        $("div.column").css({"height": 960/gridDim, "width": 960/gridDim});
-        $("div.row").css({"height": 960/gridDim, "width": 960/gridDim});
+    
+    $("div.column").css({"height": 960/gridDim, "width": 960/gridDim});
+    $("div.row").css({"height": 960/gridDim, "width": 960/gridDim});
 
-        $("div.column").mouseenter(function(){
-            $(this).css("background-color", "#99CCFF");    
-        });
+    $("div.column").mouseenter(function(){
+        $(this).css("background-color", "#99CCFF");    
+    });
 
 
 }
