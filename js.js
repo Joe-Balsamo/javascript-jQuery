@@ -8,7 +8,10 @@ $(document).ready(function() {
 var $container = $(".wrapper");
 
 var currentColor = getRandomColor();
-//var currentColor = "#99CCFF";
+
+function doClearButton() {
+    $("div.column").css({"background-color": "white"});
+}
 
 function doGridButton() {
     $container.html("");

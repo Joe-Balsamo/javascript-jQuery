@@ -3,18 +3,27 @@
 
 button {
 	padding: 10px 50px;
-/*	margin:  25px 100px 50px 400px; 
-	margin:  25px 100px 50px 400px; */
-	margin:  25px 100px;
+/*	margin:  25px 100px; */
+	margin:  25px 75px;
 }
 
 
 .row {
+	margin: 0px;
 	display: inline-block;
+	outline-width: 0px;
+	border-width: 0px;
+	padding: 0px;
+	background-color: white;
+
 }
 
 
+
 .column {
-	border: 1px solid black; 
+	border: 1px solid black;
+	padding: 0px;
+	margin: 0px;
+	background-color: white;
 }
 
