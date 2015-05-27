@@ -1,4 +1,6 @@
 
+
+
 button {
 	padding: 10px 50px;
 	margin:  25px 100px 50px 400px;
@@ -9,7 +11,8 @@ button {
 	display: inline-block;
 }
 
+
 .column {
-	border: 1px solid black;
+	border: 1px solid black; 
 }
 
